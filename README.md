@@ -1,6 +1,6 @@
 # timely-site
 
-The public pages for **Timely**, a task and habit tracker for iPhone.
+The public pages for **Sedulo**, a task and habit tracker for iPhone.
 
 Published with GitHub Pages from `main`:
 
